@@ -1,0 +1,321 @@
+[
+  {
+    "name": "data_1_9",
+    "title": "Répartition des actifs occupés par régularité dans l'emploi",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/346f5d50-4307-4450-b912-624790212be0/resource/39aa0756-7c0e-45a2-aeed-1b4357eb09e4/download/i_1.9.xlsx",
+        "format": "XLSX",
+        "name": "I_1.9.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_8",
+    "title": "Répartition des actifs occupés de 15 ans et plus",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/716cfede-4997-4e8e-974f-c071f1224cd4/resource/cf7656dc-74e6-4cc1-a43b-647822a06dc2/download/i_1.8.xlsx",
+        "format": "XLSX",
+        "name": "I_1.8.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_7",
+    "title": "Taux d'emploi des 15 ans et plus",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/6e1e7138-1aee-4981-978e-176e896d7748/resource/06a301f6-5b5a-4f99-aae5-4467ae61aa91/download/i_1.7.xlsx",
+        "format": "XLSX",
+        "name": "I_1.7.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_6",
+    "title": "Part de la population active en chômage",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/8debd3f8-54fb-487f-809e-fe68407bb197/resource/4097fc72-09ff-499f-8f30-e159b50b7d01/download/i_1.6.xlsx",
+        "format": "XLSX",
+        "name": "I_1.6.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_5",
+    "title": "Taux brut d'activité",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/748ecd24-7352-4a44-8531-fff4afd9944a/resource/f7962c08-d3cc-4348-8fd2-27a59bc64156/download/i_1.5.xlsx",
+        "format": "XLSX",
+        "name": "I_1.5.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_4",
+    "title": "Taux net d'activité",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/7887fc55-4865-4f82-a974-9705d6b78fa0/resource/e556530d-c84a-4136-b5c2-f2d922fc7190/download/i_1.4.xlsx",
+        "format": "XLSX",
+        "name": "I_1.4.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_3",
+    "title": "Taux de chômage selon le Milieu, le sexe et les régions",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/d5756052-c73c-45b3-a091-aa809ea6be66/resource/48519d57-7865-46b2-b8f6-aeb761d3b68f/download/i_1.3.xlsx",
+        "format": "XLSX",
+        "name": "I_1.3.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_29",
+    "title": "Taux de chômage selon les tranches d'âge et le sexe (Trimestriel)",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/f8ca1c56-9f67-4014-b914-ba01834eb81e/resource/d2be44b4-7a22-4140-8860-c89ab505a0e7/download/i_1.29.xlsx",
+        "format": "XLSX",
+        "name": "I_1.29.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_28",
+    "title": "Taux d'activité selon les tranches d'âge et le Sexe",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/33e2add3-f569-4871-b711-bd4a4bd7b836/resource/943536ff-b99b-46de-b434-a64e2d73feea/download/i_1.28.xlsx",
+        "format": "XLSX",
+        "name": "I_1.28.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_27",
+    "title": "Taux d'activité selon les tranches d'âge et le Milieu (Trimestriel)",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/bd8a1ac7-a4ff-4ec8-be2d-d83741158d9f/resource/824f09d1-98e7-4d40-b429-60740e125411/download/i_1.27.xlsx",
+        "format": "XLSX",
+        "name": "I_1.27.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_26",
+    "title": "Taux de chômage selon les tranches d'âge et le milieu (Trimestriel)",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/37cbed07-7fdd-4fca-8321-65f71b4c6f90/resource/fb4c6263-50b1-4fd3-86b2-2a0fdd4556c3/download/i_1.26.xlsx",
+        "format": "XLSX",
+        "name": "I_1.26.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_25",
+    "title": "Taux de chômage selon le diplôme et le sexe (Trimestriel)",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/0902a2ff-9276-4660-a458-4671349ddc80/resource/91739171-422b-476d-bae0-be5499f79364/download/i_1.25.xlsx",
+        "format": "XLSX",
+        "name": "I_1.25.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_24",
+    "title": "Taux de chômage selon le diplôme et le milieu (Trimestriel)",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/4f5ffeed-9385-4b59-be72-a5baf3e351ba/resource/a5cd6741-261a-4f4b-8772-ffde722bd7ee/download/i_1.24.xlsx",
+        "format": "XLSX",
+        "name": "I_1.24.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_23",
+    "title": "Type de chômage (Trimestriel)",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/c05fce4b-5e74-45a1-90b2-ba9a135ac0e2/resource/57852c38-3702-4bf4-8615-f2900af23e5b/download/i_1.23.xlsx",
+        "format": "XLSX",
+        "name": "I_1.23.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_22",
+    "title": "Taux d'emploi par secteur (Trimestriel)",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/d52c9791-058d-422e-bafa-d56f4d590f78/resource/c959bca8-f8b1-4786-a812-c2efed2a7205/download/i_1.22.xlsx",
+        "format": "XLSX",
+        "name": "I_1.22.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_21",
+    "title": "Taux d'emploi par branche d'activité de la population active occupée (Trimestriel)",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/c4393706-41a9-41ae-8e5f-55aece6ca496/resource/7cfe4953-6197-4338-b10c-e71903ac2884/download/i_1.21.xlsx",
+        "format": "XLSX",
+        "name": "I_1.21.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_20",
+    "title": "Durée de chômage par milieu (Trimestriel)",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/f1611906-64ae-4d8c-8ff7-3fa83cab8e92/resource/8a81782d-4e4f-472e-91dd-88707b216aa4/download/i_1.20.xlsx",
+        "format": "XLSX",
+        "name": "I_1.20.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_2",
+    "title": "Taux de chômage selon le Milieu, le sexe et le groupe d'âges",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/16ee67b5-dbaa-41c5-b9fa-103832ed7ba9/resource/78cc5cb9-e0bd-4f54-93a7-7118ccbf1c8c/download/i_1.2.xlsx",
+        "format": "XLSX",
+        "name": "I_1.2.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_19",
+    "title": "Taux d'activité selon les tranches d'âge et le Milieu",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/64bc9eac-6b5d-499b-81cc-82db05b26e91/resource/58e95c54-fb6c-4192-b439-f1810f1a8e15/download/i_1.19.xlsx",
+        "format": "XLSX",
+        "name": "I_1.19.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_18",
+    "title": "Taux de chômage par sexe et région",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/1d9ccb59-5aa6-40ba-8357-21e9c2125632/resource/f4ca77fb-6fbb-4de8-8e27-237fe2f9f772/download/i_1.18.xlsx",
+        "format": "XLSX",
+        "name": "I_1.18.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_17",
+    "title": "La population active occupée selon le sexe et la profession",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/38b1943d-0d0f-4d0f-b758-97e658c58519/resource/e7437fcf-ab53-4e61-8e13-88f64b244c66/download/i_1.17.xlsx",
+        "format": "XLSX",
+        "name": "I_1.17.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_16",
+    "title": "Taux d'activité selon les tranches d'âge et sexe R_3228",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/89fb2c31-8b4b-4d5a-bace-03f11559483b/resource/3086e693-4f90-463c-bd3c-ea07443b9036/download/i_1.16.xlsx",
+        "format": "XLSX",
+        "name": "I_1.16.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_15",
+    "title": "Effectif des chômeurs",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/ddb5b767-bf8a-4152-a578-90adb5b3df3c/resource/0ed8374a-d0c7-435d-8ed7-2513b0616a81/download/i_1.15.xlsx",
+        "format": "XLSX",
+        "name": "I_1.15.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_14",
+    "title": "Effectif des actifs occupés ayant un emploi rémunéré",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/76033744-ca69-4d7b-ae95-7c98c36c36eb/resource/25c0a15b-82f6-4578-8348-d86cba2521df/download/i_1.14.xlsx",
+        "format": "XLSX",
+        "name": "I_1.14.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_13",
+    "title": "Actifs occupés de 15 ans et plus occupant des emplois non rémunérés",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/faa27b0c-e196-4e55-b09c-1207c24c4ceb/resource/9f54f380-64d4-4c76-9889-268b799f1373/download/i_1.13.xlsx",
+        "format": "XLSX",
+        "name": "I_1.13.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_12",
+    "title": "Taux de couverture des travailleurs salariés de 15 ans et plus par une assurance maladie liée à leur emploi",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/082a73e0-1ba1-433f-ab7c-f70645e86ab8/resource/81bab313-c00e-43ad-b101-15c6733b1b51/download/i_1.12.xlsx",
+        "format": "XLSX",
+        "name": "I_1.12.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_11",
+    "title": "Structure des actifs occupés selon le status professionnel",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/9ce17806-752b-4d60-8442-a42e638c31be/resource/26487701-457e-4144-b2bc-693d59aadf9d/download/i_1.11.xlsx",
+        "format": "XLSX",
+        "name": "I_1.11.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_10",
+    "title": "Structure des actifs occupés",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/2e2fbea2-49ce-431e-9442-6bd9df24dac9/resource/71e94f1c-e479-4d1e-b32a-25b67c7ab21b/download/i_1.10.xlsx",
+        "format": "XLSX",
+        "name": "I_1.10.xlsx"
+      }
+    ]
+  },
+  {
+    "name": "data_1_1",
+    "title": "Taux de chômage selon le Milieu, les diplômes",
+    "resources": [
+      {
+        "url": "https://data.gov.ma/data/dataset/70eaa730-274d-4511-a7e6-5440c069076e/resource/7b4c9594-4aad-40ef-abf3-cddde1753b25/download/i_1.1.xlsx",
+        "format": "XLSX",
+        "name": "I_1.1.xlsx"
+      }
+    ]
+  }
+]
