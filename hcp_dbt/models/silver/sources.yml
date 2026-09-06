@@ -1,0 +1,16 @@
+version: 2
+
+sources:
+  - name: bronze
+    schema: bronze
+    tables:
+      - name: bronze_data_1_2
+        description: "Taux de chômage selon le Milieu, le sexe et le groupe d'âges"
+      - name: bronze_data_1_3
+        description: "Taux de chômage selon le Milieu, le sexe et les régions"
+      - name: bronze_data_1_5
+        description: "Taux brut d'activité"
+      - name: bronze_data_1_7
+        description: "Taux d'emploi des 15 ans et plus"
+      - name: bronze_data_1_22
+        description: "Taux d'emploi par secteur (Trimestriel)"
