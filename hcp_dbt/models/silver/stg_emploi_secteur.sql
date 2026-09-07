@@ -1,18 +1,19 @@
 {{ config(materialized='view', schema='silver') }}
 
 WITH source AS (
-    SELECT * FROM {{ source('bronze', 'bronze_data_1_7') }}
+    SELECT * FROM {{ source('bronze', 'bronze_data_1_22') }}
 ),
 
 cleaned AS (
     SELECT
-        "Milieu de résidence"       AS milieu,
-        CAST(annee AS INTEGER)      AS annee,
+        "Milieu"                    AS milieu,
+        "Secteur"                   AS secteur,
+        periode,
         CAST(valeur AS NUMERIC)     AS taux_emploi,
         dataset_name,
         titre
     FROM source
-    WHERE "Milieu de résidence" IS NOT NULL
+    WHERE "Milieu" IS NOT NULL
       AND valeur IS NOT NULL
 )
 
