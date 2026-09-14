@@ -15,6 +15,7 @@ cleaned AS (
     FROM source
     WHERE "Milieu" IS NOT NULL
       AND valeur IS NOT NULL
+      AND CAST(valeur AS NUMERIC) BETWEEN 0 AND 100
 )
 
 SELECT * FROM cleaned
