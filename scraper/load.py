@@ -119,6 +119,9 @@ def process_file(filepath, dataset_name, name_to_title):
         print(f"  SKIP : structure non reconnue")
         return None
 
+    for col in dim_cols:
+        df[col] = df[col].ffill()
+
     trimestrial = is_trimestrial(df, dim_cols)
 
     # ── UNPIVOT (Wide → Long) ──────────────────────────────────────────
@@ -184,7 +187,7 @@ def insert_to_postgres(df, table_name, schema="bronze"):
     placeholders = ", ".join(["%s"] * len(cols))
 
     # Supprimer la table si elle existe déjà (pour pouvoir relancer)
-    cur.execute(f'DROP TABLE IF EXISTS {schema}."{table_name}"')
+    cur.execute(f'DROP TABLE IF EXISTS {schema}."{table_name}" CASCADE')
 
     # Créer la table
     cur.execute(f'CREATE TABLE {schema}."{table_name}" ({col_defs})')
