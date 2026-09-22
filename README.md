@@ -3,7 +3,7 @@
 Pipeline de données automatisé sur les statistiques officielles de l'emploi
 au Maroc, de l'API du Haut-Commissariat au Plan jusqu'au dashboard Power BI.
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard/HCP_DASH.png)
 
 ## Architecture
 
